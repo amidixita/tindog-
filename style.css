@@ -1,0 +1,153 @@
+.container-fluid{
+  padding: 3% 15% 7% !important;
+}
+#title
+
+{
+  background-color:#ff4c68;
+}
+
+
+.heading-1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+color: #fff;
+
+}
+.navbar{
+  padding:0 0 4.5rem !important;
+
+}
+.nav-link
+{
+  font-size: 1.2rem;
+
+}
+  .navbar-brand{ font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+  }
+
+  .button1{
+    margin:5% 3% 5% 0;
+  }
+.title-image{position:absolute;
+right:30%;
+  width:60%;
+  transform: rotate(25deg);
+}
+
+.fa-bullseye{
+  color:pink;
+
+}
+.heading3{padding-top: 10px;
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+}
+.division{
+  text-align:center;
+
+}
+.fa-heart{
+  color:pink;
+}
+.fa-heart:hover{color:#ff4c68;}
+.fas:hover{
+  color:#ff4c68;
+}
+.fa-bullseye:{color:#ff4c68;}
+.fa-check-circle{
+  color:pink;
+}
+.para{
+  color: grey;
+  padding:0px 30px;
+  font-family: "Ubuntu";
+}
+.features{padding-top: 7%;
+position: relative;
+
+background-color: white;}
+#slide{
+  color:white;
+  background-color:#ef8172;
+  text-align:center;
+}
+.dog2{
+  border-radius:100%;
+  width:10%;
+  padding-top:2%;
+}
+.heading2{
+
+  line-height:1.5;
+
+  font-size:3rem;
+  font-family: "Montserrat";
+}
+em{
+  color:#fff;
+}
+#press
+{padding-bottom:2%;
+  text-align:center;
+    background-color:#ef8172;
+
+}
+.imgi{
+  width:15%;
+margin:20px 20px 50px;
+}
+.carousel-inner{
+  padding:7% 15%;
+}
+#pricing{
+  padding:5% 7%;
+}
+.heading-section{
+  font-size:2.5rem;
+}
+.para1{
+  color: grey;
+}
+.heading4{
+  font-family: "Montserrat";
+  font-size:1rem;
+}
+.price-text
+{font-size:2rem;
+  padding-bottom:2%;
+    font-family: "Montserrat";
+}
+.para2{
+  color:grey;
+}
+@media (max-width:1028px)
+{
+  #title{
+    text-align:center;
+  }
+  .title-image{
+    position:static;
+    transform:rotate(0);
+  }
+}
+
+#footer{
+  background-color:#ff4c68;
+  text-align: center;
+  padding:5% 15%;
+}
+.heading5
+{   font-family: "Montserrat";
+font-size:3rem;
+line-height:1.5;
+color: white;
+}
+
+#copyright{
+  padding: 5% 15%;
+  text-align: center;
+  color:grey;
+}
